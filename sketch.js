@@ -1,6 +1,5 @@
 function setup() {
   createCanvas(400, 400);
-
 }
 
 function draw() {
@@ -34,7 +33,7 @@ function draw() {
   line(275, 0, 275, 400);
   line(300, 0, 300, 400);
   line(325, 0, 325, 400);
-  line(350, 0, 350, 400)
+  line(350, 0, 350, 400);
 
   //Create Black Boxes
   fill("black");
@@ -60,6 +59,4 @@ function draw() {
   line(0, 0, 400, 0);
   line(0, 400, 400, 400);
   line(400, 0, 400, 400);
-
-
 }
